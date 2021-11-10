@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temanbecki1
-- 👀 I spent 7 1/2 years in the US NAvy as an Electrician. I am currently seeking Software Engineering roles.
+- 👀 I spent 7 1/2 years in the US Navy as an Electrical Engineer. I am currently seeking Software Engineering roles.
 - 🌱 I’m looking to expand my working knowledge of Java and JavaScript.
 - 💞️ 
 - 📫 You can reach me directly at temanbeck@yahoo.com 
