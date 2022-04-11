@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @temanbecki1
-- 👀 I spent 7 1/2 years in the US Navy as an Electrical Engineer. I am currently seeking Software Engineering roles.
-- 🌱 I’m looking to expand my working knowledge of Java and JavaScript.
+- Software engineer who has experience operating in an agile environment. 
+- My tech stack includes but is not limited to Postgres, Express.js, React.js, Node.js, utilizing Sequalize as an ORM. 
+- I have experience utilizing JavaScript testing frameworks such as Mocha and Jasmine, as well as implementing new ES6 features and changes. 
+- 
+- My experience in data store libraries is limited to Redux, but have the amplitude to learn others. 
+- Although I operate as a full stack engineer, I thrive  in environments which cater to my design skill for building out complex API for client consumption and data manipulation.
 - 💞️ 
 - 📫 You can reach me directly at temanbeck@yahoo.com 
 
