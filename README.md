@@ -8,15 +8,14 @@ Projects
 
 Here on GitHub, you'll find a portfolio of my work that includes:
 
-    ADA Compliance Initiative: A project showcasing my efforts to achieve 100% ADA compliance through meticulous implementation of web components.
     RESTful API Development: Examples of API endpoints designed to streamline operations and enhance system integration.
     Full-Stack Applications: A variety of applications demonstrating my proficiency in creating seamless user experiences from front to back end.
 
 Skills
 
-    Languages: Java, JavaScript, SQL
-    Frameworks/Libraries: React, Redux
-    Tools: Git, Docker, Jenkins
+    Languages: Java, JavaScript, SQL, HTML, CSS, Python
+    Frameworks/Libraries: React, Redux, Express, Node, Spring Boot, JPA, Hibernate
+    Tools: Git, Docker, Jenkins, Nginx
     Methodologies: Agile, Scrum
 
 Collaboration
